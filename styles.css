@@ -1,0 +1,6 @@
+.bg-red { background: red; }
+.box-100px { width: 100px; height: 100px; }
+.hover\:bg-blue:hover { background: blue; }
+.bg-blue { background: blue; }
+.gradient-primary { background-image: linear-gradient(to right, #ccf654, blue); }
+.center { display: flex; align-items: center; justify-content: center; }

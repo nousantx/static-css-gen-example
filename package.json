@@ -1,0 +1,16 @@
+{
+  "name": "tenoxui-cli-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Example usage of tenoxui static css generation",
+  "scripts": {
+    "dev": "npx tui-css -c tenoxui.config.cjs -w",
+    "build": "npx tui-css -c tenoxui.config.cjs"
+  },
+  "author": "NOuSantx <nousantx@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@tenoxui/property": "^1.4.0-alpha.2",
+    "@tenoxui/static-css": "^0.0.0-alpha.0"
+  }
+}
